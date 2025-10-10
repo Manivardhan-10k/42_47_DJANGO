@@ -1,0 +1,28 @@
+django,, flask fast, api, drf
+framework
+collection of libraries -- for building application
+
+
+rest api - 
+soap
+graphql
+
+
+virtual environment  
+
+python -m venv venv_name 
+
+venv_name/scripts/activate  ->name will shown in cli 
+
+pip install django djangorestframework
+
+django-admin startproject pro_name ->  pro + manage.py
+
+cd pro_name
+
+django-admin startapp app_name  
+
+
+
+powershell as admin 
+Set-ExecutionPolicy RemoteSigned

@@ -1,0 +1,107 @@
+
+# ======================
+# Python bytecode files
+# ======================
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+
+# ======================
+# C extensions
+# ======================
+**/*.so
+
+# ======================
+# Distribution / Packaging
+# ======================
+.Python
+**/*.egg-info/
+**/*.egg
+**/*.whl
+**/build/
+**/dist/
+**/pip-wheel-metadata/
+
+# ======================
+# Virtual environments (all projects)
+# ======================
+**/env/
+**/venv/
+**/ENV/
+**/env.bak/
+**/venv.bak/
+**/Lib/
+**/Scripts/
+**/site-packages/
+
+# ======================
+# Django project files
+# ======================
+**/*.log
+**/*.pot
+**/*.mo
+**/*.pyc
+**/*.sqlite3
+**/*.db
+**/db.sqlite3
+**/media/
+**/staticfiles/
+
+# ======================
+# Django migrations
+# ======================
+**/migrations/*.pyc
+**/migrations/*.py[cod]
+**/migrations/__pycache__/
+**/migrations/*.py~
+
+# ======================
+# Testing / Coverage
+# ======================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# ======================
+# IDEs
+# ======================
+**/.vscode/
+**/.idea/
+**/*.sublime-project
+**/*.sublime-workspace
+**/*.iml
+**/*.iws
+**/*.ipr
+
+# ======================
+# OS generated files
+# ======================
+**/.DS_Store
+**/Thumbs.db
+**/*.swp
+**/*.swo
+**/*.bak
+*~
+
+# ======================
+# Node / Frontend
+# ======================
+**/node_modules/
+npm-debug.log
+yarn-error.log
+
+# ======================
+# Environment variables
+# ======================
+**/.env
+**/.env.local
+**/.env.*.local

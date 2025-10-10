@@ -1,0 +1,165 @@
+to build applications 
+
+
+python :- it is a programming langauges 
+        - to communicate with machines 
+  
+
+applications: 
+Instagram -social media app
+amazon 
+swiggy 
+practo 
+
+
+
+mobile app
+browser 
+desktop app 
+
+
+
+web applications 
+Instagram - social media app 
+reels
+posts
+feed
+messaging 
+
+sign up/register  ->  data store 
+login /sign in 
+
+
+
+code complexity 
+photo sharing purpose 
+
+
+modules 
+math
+random
+
+
+
+libraries- collection of modules
+
+
+
+frameworks : collection of libraries
+css- bootstrap
+js - express , angular 
+python - Django,flask, fastapi, DRF(Django rest framework)
+
+
+
+
+
+
+scalability: to add additional features/ updating the code
+
+
+
+
+archi:
+M - model  - db tables  
+V- view - entire control logic
+T- template / to create html pages
+
+
+MVC : model view controller
+
+
+
+
+
+
+presentation/ html, css ,js
+
+application layer /server (js, python,java,c)
+
+data / mysql
+
+
+
+api: application programming interface
+xml:
+rest- restful state transfer
+soap - simple object access protocol
+graphql
+
+DRF: django rest framework 
+
+
+
+
+
+
+amazon:
+
+/register
+/login
+/proucts
+/products/mobiles
+
+
+
+authentication: who you are
+
+authorization:what you can do
+
+
+
+
+
+
+
+
+framework:
+
+it provide complete tool package to app building
+
+
+
+Django
+flask
+
+DRF- specific for rest api
+fast api
+
+
+
+DRF arch:
+MVT - model view template
+
+
+
+ecommerce - project 
+
+login
+register
+search
+
+
+
+products
+
+
+
+cart
+
+
+
+
+support
+
+
+
+
+
+
+
+
+
+
+
+
