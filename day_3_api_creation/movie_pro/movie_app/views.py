@@ -4,4 +4,6 @@ from django.http import HttpResponse
 
 
 def movies(req):
+    for prop in dir(req):
+        print(prop)
     return HttpResponse("welcome to movies app!!")
