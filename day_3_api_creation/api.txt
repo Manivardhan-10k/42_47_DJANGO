@@ -1,0 +1,32 @@
+virtual env:
+for isolating the packages in the project 
+
+py -m venv name
+
+
+to create a API 
+
+
+url 
+https://localhost:8000/wish
+
+
+take req  --> process  ---> response
+
+
+http response codes:
+
+1 - info
+2 - success
+3 - redirectional
+4 - client side error
+5 - server side error  
+
+
+
+
+
+
+pro.settings -> installedapps-> app 
+
+pro.urls-> urlpatterns -> include("app.urls")
