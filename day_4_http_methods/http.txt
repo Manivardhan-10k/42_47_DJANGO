@@ -1,0 +1,18 @@
+req.method 
+json response({"key":value})
+@csrf_exempt - cross site request forgery 
+params 
+-> query params
+-> url params
+
+data as response :
+
+single user 
+req.body -> string
+json.dumps-> object -> string 
+json.loads -> string ->object 
+
+
+return each http request
+
+check whether the user exists and if not add the user else return user already exists

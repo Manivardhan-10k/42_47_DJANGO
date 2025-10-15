@@ -1,0 +1,86 @@
+data handling from request:
+form data: (browser)
+login/register 
+text
+files 
+
+method:"POST"
+
+
+backend:
+request.POST.get("key")
+request.FILES.get("key")
+
+
+json:
+import json 
+
+json.dumps -> sending
+
+json.loads -> recieving
+json.loads(request.body)
+
+
+
+user reg: 
+
+3 users
+
+
+data layer 
+
+relational   - mysql, oracle, postgresql
+non relational - mongodb, firestore   (objects)
+
+
+
+
+
+model view template 
+col -- fields , data type , constraints
+
+rows -- records  
+
+{id:1
+name:""
+age:23
+}
+
+
+ORM
+Object Relational Mapping
+
+
+
+
+
+mysql 
+
+
+settings.py 
+
+databases:
+engine: mysql 
+name:db name
+user: username
+password:password
+host:localhost
+port:3306 
+
+
+
+models.py
+
+class table_name(models.Model):
+     fieldname=models.charField(max_length=50)
+
+
+py manage.py makemigrations 
+py manage.py migrate 
+
+
+ORM 
+record=table_name.objects.create(field1=val1,field2=val2)
+record.save()
+
+

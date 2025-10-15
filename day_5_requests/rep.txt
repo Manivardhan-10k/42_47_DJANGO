@@ -1,0 +1,16 @@
+http methods
+decorators -> csrf_exempt 
+json response 
+params:
+urls params
+query params
+
+
+venv--> 
+python - 3.13 
+
+venv->
+        3.10 
+venv  ->3.12
+
+
