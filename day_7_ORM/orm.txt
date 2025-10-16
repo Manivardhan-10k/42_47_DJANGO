@@ -1,0 +1,28 @@
+database connection:
+
+mysqlclient 
+
+settings:
+databases:{
+    "default":
+    {
+        "engine":.mysql 
+        "name":"db name"
+        "user":":"root"
+        "password":"",
+        "host":localhost/127.0.0.1
+        "port":
+    }
+}
+
+create table name()
+
+
+
+
+
+
+
+ORM -> object relational mapping 
+
+
