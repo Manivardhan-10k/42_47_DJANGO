@@ -1,0 +1,30 @@
+crud - get post 
+
+settings
+model 
+
+model_name.objects.all() -> query set 
+.values()-> queryset(dict)
+list(values) 
+
+
+form/json
+model_name.objects.create(fieldname=user_val)
+
+
+
+post: 
+model_name.objects.create()
+
+
+put:
+get(id=id)
+
+if id in req:
+     inst.id=id 
+
+
+
+delete
+get(id=id)
+.delete()
