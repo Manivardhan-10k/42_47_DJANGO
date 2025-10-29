@@ -1,0 +1,21 @@
+welcome 
+
+login
+
+register
+
+products
+
+
+
+
+store
+
+webstorage 
+db.json
+
+node
+
+
+
+django api

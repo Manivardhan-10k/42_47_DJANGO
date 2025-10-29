@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "anvesh",
+      "email": "anvesh@gmail.com",
+      "password": "anvesh@123",
+      "mobile": "9876543210"
+    },
+    {
+      "id": "2",
+      "username": "bhaskar",
+      "email": "bhaskar@gmail.com",
+      "password": "bhaskar@123",
+      "mobile": "9876543211"
+    },
+    {
+      "id": "3",
+      "name": "sunny",
+      "password": "sunny@123",
+      "email": "sunny@gmail.com",
+      "mobile": "9897654322"
+    },
+    {
+      "id": "4",
+      "name": "chitti",
+      "password": "chitti@123",
+      "email": "chitti@vasi.com",
+      "mobile": "987654332"
+    }
+  ]
+}
